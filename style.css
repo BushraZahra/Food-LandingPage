@@ -1,0 +1,36 @@
+.nav{
+    background-color: black;
+    margin: 2px;
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+    padding: 3px;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    background-color: yellow;
+    padding: 40px;
+    width: 23%;
+    font-size: larger;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 7px;
+}
+.main img{
+   width: 40px;
+}
+.img{
+   
+    border: 2px solid yellow;
+    
+}
